@@ -58,9 +58,5 @@ public class RoBoT extends OpMode {
         telemetry.addData("left_front_drive", left_front_drive.getCurrentPosition());
         telemetry.addData("right_front_drive", right_front_drive.getCurrentPosition());
 
-
-        }
-
-
     }
 }
